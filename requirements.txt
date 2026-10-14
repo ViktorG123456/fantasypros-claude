@@ -1,4 +1,0 @@
-espn_api
-requests
-python-dotenv
-mcp[cli]==1.29.0

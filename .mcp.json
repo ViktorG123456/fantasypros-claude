@@ -1,12 +1,5 @@
 {
   "mcpServers": {
-    "espn-fantasy-football": {
-      "command": "espn-venv\\Scripts\\python.exe",
-      "args": [
-        "-m",
-        "espn_mcp.server"
-      ]
-    },
     "fantasypros": {
       "type": "http",
       "url": "https://api.fantasypros.com/mcp"
