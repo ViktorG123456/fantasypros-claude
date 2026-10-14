@@ -1,4 +1,2 @@
 .env
-espn-venv/
-__pycache__/
 .claude/settings.local.json
